@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Dionisius Widianto</title><desc id="d">Quality engineering lead. Building small, reliable tools on the edge.</desc>
+<style>
+.n{font:700 64px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.s{font:400 26px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#9198a1}
+.m{font:500 18px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#3fb68f;letter-spacing:2px}
+.c{fill:#3fb68f}.g{stroke:#30363d;stroke-width:1}
+.p{animation:p 2.4s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.p{animation:none;opacity:1}}
+</style>
+<rect width="1200" height="300" rx="16" fill="#0d1117"/>
+<g class="g"><line x1="760" y1="30" x2="760" y2="270"/>
+<line x1="800" y1="30" x2="800" y2="270"/>
+<line x1="840" y1="30" x2="840" y2="270"/>
+<line x1="880" y1="30" x2="880" y2="270"/>
+<line x1="920" y1="30" x2="920" y2="270"/>
+<line x1="960" y1="30" x2="960" y2="270"/>
+<line x1="1000" y1="30" x2="1000" y2="270"/>
+<line x1="1040" y1="30" x2="1040" y2="270"/>
+<line x1="1080" y1="30" x2="1080" y2="270"/>
+<line x1="1120" y1="30" x2="1120" y2="270"/>
+<line x1="1160" y1="30" x2="1160" y2="270"/><line x1="760" y1="30" x2="1160" y2="30"/>
+<line x1="760" y1="70" x2="1160" y2="70"/>
+<line x1="760" y1="110" x2="1160" y2="110"/>
+<line x1="760" y1="150" x2="1160" y2="150"/>
+<line x1="760" y1="190" x2="1160" y2="190"/>
+<line x1="760" y1="230" x2="1160" y2="230"/>
+<line x1="760" y1="270" x2="1160" y2="270"/></g>
+<polyline points="760,230 800,210 840,220 880,170 920,180 960,130 1000,140 1040,95 1080,100 1120,70 1160,60" fill="none" stroke="#3fb68f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="c p" cx="1160" cy="60" r="9"/>
+<text x="64" y="96" class="m">QUALITY ENGINEERING · FINTECH · INDONESIA</text>
+<text x="64" y="170" class="n">Dionisius Widianto</text>
+<text x="64" y="220" class="s">Turning manual workflows into small, reliable tools.</text>
+</svg>
