@@ -22,7 +22,11 @@ I lead quality engineering at a fintech company in Indonesia. Much of my work is
 
 ### Tools
 
-JavaScript, React, Node.js, PostgreSQL, Cloudflare Workers, Vite, Tailwind CSS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg">
+  <img alt="Tools: JavaScript, React, Node.js, PostgreSQL, Cloudflare Workers, Vite, Tailwind CSS" src="assets/tools-light.svg" width="100%">
+</picture>
 
 <details>
 <summary><b>How I work</b></summary>
