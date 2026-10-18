@@ -1,51 +1,34 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Dionisius Widianto. Quality engineering lead in Indonesian fintech, turning manual workflows into small, reliable tools." src="assets/banner-light.svg" width="100%">
+  <img alt="Dionisius Widianto. Quality engineering, fintech, Indonesia. Turning manual workflows into small, reliable tools." src="assets/banner-light.svg" width="100%">
 </picture>
 
 ## About
 
-I lead quality engineering at an Indonesian fintech. Most of my work is replacing spreadsheet processes with tools that are tested on every deploy.
+I lead quality engineering at a fintech company in Indonesia. Much of my work is replacing spreadsheet processes with small web tools that run their full test suite before every deploy.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### Working on
 
-### Right now
-- QA dashboards that replace spreadsheets, with tests guarding every deploy
-- Edge-first web apps on Cloudflare Workers and Postgres
-- Using AI agents for day-to-day engineering, with review on every change
-
-</td>
-<td valign="top" width="50%">
+- A UAT tracking dashboard that replaced a shared spreadsheet as the team's system of record
+- Edge-hosted web apps on Cloudflare Workers with Postgres behind them
+- Engineering with AI agents, where every change is still reviewed before it merges
 
 ### What I care about
-- Test design and release safety
-- Accessible, plain-language UI
-- Small changes that are reviewed and measured
 
-</td>
-</tr>
-</table>
+- Test design that catches the regression before a user does
+- Interfaces that are accessible and written in plain language
+- Small changes that are easy to review and easy to roll back
 
-### Tools I reach for
+### Tools
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</p>
+JavaScript, React, Node.js, PostgreSQL, Cloudflare Workers, Vite, Tailwind CSS
 
 <details>
 <summary><b>How I work</b></summary>
 
-- Small, reviewed changes; every merge passes the full test suite
-- Write the rule down where the next person will look for it
+- Ship in small, reviewed steps; nothing merges unless the tests pass
+- Write a rule down where the next person will look for it
 - Measure before optimizing
 
 </details>
