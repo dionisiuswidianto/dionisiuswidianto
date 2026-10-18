@@ -13,8 +13,8 @@
 @keyframes f{to{opacity:1}}
 .sc{animation:sc 6s linear infinite}
 @keyframes sc{from{transform:translateX(-200px)}to{transform:translateX(1400px)}}
-.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
-@media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}.sc,.cur{animation:none}.sc{display:none}}
+.cur{opacity:0;animation:f .4s 3.1s forwards,b 1s 3.5s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}.sc{animation:none}.cur{animation:none;opacity:1}.sc{display:none}}
 </style>
 <g clip-path="url(#r)">
 <rect width="1200" height="300" fill="url(#bg)"/>
@@ -26,8 +26,8 @@
 <text x="62" y="168" class="n">Dionisius Widianto</text>
 <rect x="64" y="186" width="120" height="4" rx="2" fill="url(#ac)"/>
 <text x="64" y="234" class="s">Turning manual workflows into small, reliable tools.</text>
-<rect x="776" y="60" width="380" height="196" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<circle cx="800" cy="82" r="6" fill="#ff5f57"/><circle cx="820" cy="82" r="6" fill="#febc2e"/><circle cx="840" cy="82" r="6" fill="#28c840"/>
-<text x="800" y="128" class="t f" style="fill:#59636e;animation-delay:0.3s">$ npm test</text><text x="800" y="152" class="t f" style="fill:#0f8a5f;animation-delay:0.9s">✓ status rules</text><text x="800" y="176" class="t f" style="fill:#0f8a5f;animation-delay:1.3s">✓ permissions</text><text x="800" y="200" class="t f" style="fill:#0f8a5f;animation-delay:1.7s">✓ sla calendar</text><text x="800" y="224" class="t f" style="fill:#0f8a5f;animation-delay:2.1s">✓ sync and conflicts</text><text x="800" y="248" class="t f" style="fill:#0969da;animation-delay:2.7s">all checks passed, deploying</text>
-<rect class="cur" x="800" y="258" width="9" height="18" fill="#0f8a5f"/>
+<rect x="776" y="36" width="380" height="232" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="800" cy="58" r="6" fill="#ff5f57"/><circle cx="820" cy="58" r="6" fill="#febc2e"/><circle cx="840" cy="58" r="6" fill="#28c840"/>
+<text x="800" y="104" class="t f" style="fill:#59636e;animation-delay:0.3s">$ npm test</text><text x="800" y="128" class="t f" style="fill:#0f8a5f;animation-delay:0.9s">✓ status rules</text><text x="800" y="152" class="t f" style="fill:#0f8a5f;animation-delay:1.3s">✓ permissions</text><text x="800" y="176" class="t f" style="fill:#0f8a5f;animation-delay:1.7s">✓ sla calendar</text><text x="800" y="200" class="t f" style="fill:#0f8a5f;animation-delay:2.1s">✓ sync and conflicts</text><text x="800" y="224" class="t f" style="fill:#0969da;animation-delay:2.7s">all checks passed, deploying</text><text x="800" y="248" class="t f" style="fill:#59636e;animation-delay:3.1s">$</text>
+<rect class="cur" x="820" y="234" width="9" height="18" fill="#59636e"/>
 </g></svg>
