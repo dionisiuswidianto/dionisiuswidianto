@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-<title id="t">Dionisius Widianto</title><desc id="d">Quality engineering lead in Indonesian fintech. A terminal on the right runs a test suite: every check passes, then it deploys.</desc>
+<title id="t">Dionisius Widianto</title><desc id="d">Quality engineering lead in Indonesian fintech. A terminal on the right runs a skills check: risk-based test strategy, end-to-end and API automation, CI gates on every deploy, and React, Workers and Postgres all pass, ready to ship.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef6f3"/></linearGradient>
 <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#0f8a5f"/><stop offset="1" stop-color="#0969da"/></linearGradient>
 <radialGradient id="gl" cx=".2" cy=".5" r=".6"><stop offset="0" stop-color="#0f8a5f" stop-opacity=".18"/><stop offset="1" stop-color="#0f8a5f" stop-opacity="0"/></radialGradient>
@@ -28,6 +28,6 @@
 <text x="64" y="234" class="s">Turning manual workflows into small, reliable tools.</text>
 <rect x="776" y="36" width="380" height="232" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
 <circle cx="800" cy="58" r="6" fill="#ff5f57"/><circle cx="820" cy="58" r="6" fill="#febc2e"/><circle cx="840" cy="58" r="6" fill="#28c840"/>
-<text x="800" y="104" class="t f" style="fill:#59636e;animation-delay:0.3s">$ npm test</text><text x="800" y="128" class="t f" style="fill:#0f8a5f;animation-delay:0.9s">✓ status rules</text><text x="800" y="152" class="t f" style="fill:#0f8a5f;animation-delay:1.3s">✓ permissions</text><text x="800" y="176" class="t f" style="fill:#0f8a5f;animation-delay:1.7s">✓ sla calendar</text><text x="800" y="200" class="t f" style="fill:#0f8a5f;animation-delay:2.1s">✓ sync and conflicts</text><text x="800" y="224" class="t f" style="fill:#0969da;animation-delay:2.7s">all checks passed, deploying</text><text x="800" y="248" class="t f" style="fill:#59636e;animation-delay:3.1s">$</text>
+<text x="800" y="104" class="t f" style="fill:#59636e;animation-delay:0.3s">$ qa verify --skills</text><text x="800" y="128" class="t f" style="fill:#0f8a5f;animation-delay:0.9s">✓ risk-based test strategy</text><text x="800" y="152" class="t f" style="fill:#0f8a5f;animation-delay:1.3s">✓ e2e and API automation</text><text x="800" y="176" class="t f" style="fill:#0f8a5f;animation-delay:1.7s">✓ CI gates on every deploy</text><text x="800" y="200" class="t f" style="fill:#0f8a5f;animation-delay:2.1s">✓ React, Workers, Postgres</text><text x="800" y="224" class="t f" style="fill:#0969da;animation-delay:2.7s">4/4 passed, ready to ship</text><text x="800" y="248" class="t f" style="fill:#59636e;animation-delay:3.1s">$</text>
 <rect class="cur" x="820" y="234" width="9" height="18" fill="#59636e"/>
 </g></svg>
