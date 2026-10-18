@@ -15,10 +15,6 @@ I like turning messy, manual workflows into small, reliable tools that teams act
 
 `JavaScript` · `React` · `Node.js` · `PostgreSQL` · `Cloudflare Workers` · `Vite` · `Tailwind CSS`
 
-**Find me**
-- LinkedIn: <!-- add your profile URL -->
-- Email: <!-- optional, a public address only -->
-
 <details>
 <summary>How I work</summary>
 
