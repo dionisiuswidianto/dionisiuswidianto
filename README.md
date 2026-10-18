@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Dionisius Widianto, quality engineering lead in Indonesian fintech, turning manual workflows into small, reliable tools. Beside the name, a terminal runs a test suite where every check passes before deploying." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v3.svg">
+  <img alt="Dionisius Widianto, quality engineering lead in Indonesian fintech, turning manual workflows into small, reliable tools. Beside the name, a terminal runs a test suite where every check passes before deploying." src="assets/banner-light-v3.svg" width="100%">
 </picture>
 
 ## About
@@ -23,9 +23,9 @@ I lead quality engineering at a fintech company in Indonesia. Much of my work is
 ### Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg">
-  <img alt="Tools: JavaScript, React, Node.js, PostgreSQL, Cloudflare Workers, Vite, Tailwind CSS" src="assets/tools-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tools-light-v3.svg">
+  <img alt="Tools: JavaScript, React, Node.js, PostgreSQL, Cloudflare Workers, Vite, Tailwind CSS" src="assets/tools-light-v3.svg" width="100%">
 </picture>
 
 <details>
