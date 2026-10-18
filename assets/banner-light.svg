@@ -1,35 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-<title id="t">Dionisius Widianto</title><desc id="d">Quality engineering lead. Building small, reliable tools on the edge.</desc>
+<title id="t">Dionisius Widianto</title><desc id="d">Quality engineering lead in Indonesian fintech. A terminal on the right runs a test suite: every check passes, then it deploys.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#eef6f3"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#0f8a5f"/><stop offset="1" stop-color="#0969da"/></linearGradient>
+<radialGradient id="gl" cx=".2" cy=".5" r=".6"><stop offset="0" stop-color="#0f8a5f" stop-opacity=".18"/><stop offset="1" stop-color="#0f8a5f" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1200" height="300" rx="16"/></clipPath></defs>
 <style>
-.n{font:700 64px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
-.s{font:400 26px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#59636e}
-.m{font:500 18px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#1a7f64;letter-spacing:2px}
-.c{fill:#1a7f64}.g{stroke:#d0d7de;stroke-width:1}
-.p{animation:p 2.4s ease-in-out infinite}
-@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
-@media (prefers-reduced-motion:reduce){.p{animation:none;opacity:1}}
+.n{font:800 66px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328;letter-spacing:-1px}
+.s{font:400 25px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#59636e}
+.m{font:600 16px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#0f8a5f;letter-spacing:3px}
+.t{font:500 16px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.f{opacity:0;animation:f .4s ease-out forwards}
+@keyframes f{to{opacity:1}}
+.sc{animation:sc 6s linear infinite}
+@keyframes sc{from{transform:translateX(-200px)}to{transform:translateX(1400px)}}
+.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}.sc,.cur{animation:none}.sc{display:none}}
 </style>
-<rect width="1200" height="300" rx="16" fill="#f6f8fa"/>
-<g class="g"><line x1="760" y1="30" x2="760" y2="270"/>
-<line x1="800" y1="30" x2="800" y2="270"/>
-<line x1="840" y1="30" x2="840" y2="270"/>
-<line x1="880" y1="30" x2="880" y2="270"/>
-<line x1="920" y1="30" x2="920" y2="270"/>
-<line x1="960" y1="30" x2="960" y2="270"/>
-<line x1="1000" y1="30" x2="1000" y2="270"/>
-<line x1="1040" y1="30" x2="1040" y2="270"/>
-<line x1="1080" y1="30" x2="1080" y2="270"/>
-<line x1="1120" y1="30" x2="1120" y2="270"/>
-<line x1="1160" y1="30" x2="1160" y2="270"/><line x1="760" y1="30" x2="1160" y2="30"/>
-<line x1="760" y1="70" x2="1160" y2="70"/>
-<line x1="760" y1="110" x2="1160" y2="110"/>
-<line x1="760" y1="150" x2="1160" y2="150"/>
-<line x1="760" y1="190" x2="1160" y2="190"/>
-<line x1="760" y1="230" x2="1160" y2="230"/>
-<line x1="760" y1="270" x2="1160" y2="270"/></g>
-<polyline points="760,230 800,210 840,220 880,170 920,180 960,130 1000,140 1040,95 1080,100 1120,70 1160,60" fill="none" stroke="#1a7f64" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<circle class="c p" cx="1160" cy="60" r="9"/>
-<text x="64" y="96" class="m">QUALITY ENGINEERING · FINTECH · INDONESIA</text>
-<text x="64" y="170" class="n">Dionisius Widianto</text>
-<text x="64" y="220" class="s">Turning manual workflows into small, reliable tools.</text>
-</svg>
+<g clip-path="url(#r)">
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g stroke="#d8dee4" stroke-width="1" opacity=".6"><line x1="0" y1="0" x2="0" y2="300"/><line x1="40" y1="0" x2="40" y2="300"/><line x1="80" y1="0" x2="80" y2="300"/><line x1="120" y1="0" x2="120" y2="300"/><line x1="160" y1="0" x2="160" y2="300"/><line x1="200" y1="0" x2="200" y2="300"/><line x1="240" y1="0" x2="240" y2="300"/><line x1="280" y1="0" x2="280" y2="300"/><line x1="320" y1="0" x2="320" y2="300"/><line x1="360" y1="0" x2="360" y2="300"/><line x1="400" y1="0" x2="400" y2="300"/><line x1="440" y1="0" x2="440" y2="300"/><line x1="480" y1="0" x2="480" y2="300"/><line x1="520" y1="0" x2="520" y2="300"/><line x1="560" y1="0" x2="560" y2="300"/><line x1="600" y1="0" x2="600" y2="300"/><line x1="640" y1="0" x2="640" y2="300"/><line x1="680" y1="0" x2="680" y2="300"/><line x1="720" y1="0" x2="720" y2="300"/><line x1="760" y1="0" x2="760" y2="300"/><line x1="800" y1="0" x2="800" y2="300"/><line x1="840" y1="0" x2="840" y2="300"/><line x1="880" y1="0" x2="880" y2="300"/><line x1="920" y1="0" x2="920" y2="300"/><line x1="960" y1="0" x2="960" y2="300"/><line x1="1000" y1="0" x2="1000" y2="300"/><line x1="1040" y1="0" x2="1040" y2="300"/><line x1="1080" y1="0" x2="1080" y2="300"/><line x1="1120" y1="0" x2="1120" y2="300"/><line x1="1160" y1="0" x2="1160" y2="300"/><line x1="1200" y1="0" x2="1200" y2="300"/><line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="40" x2="1200" y2="40"/><line x1="0" y1="80" x2="1200" y2="80"/><line x1="0" y1="120" x2="1200" y2="120"/><line x1="0" y1="160" x2="1200" y2="160"/><line x1="0" y1="200" x2="1200" y2="200"/><line x1="0" y1="240" x2="1200" y2="240"/><line x1="0" y1="280" x2="1200" y2="280"/></g>
+<rect width="1200" height="300" fill="url(#gl)"/>
+<rect class="sc" x="0" y="0" width="120" height="300" fill="#0f8a5f" opacity=".05"/>
+<rect x="64" y="70" width="6" height="22" rx="2" fill="url(#ac)"/>
+<text x="82" y="88" class="m">QUALITY ENGINEERING · FINTECH · INDONESIA</text>
+<text x="62" y="168" class="n">Dionisius Widianto</text>
+<rect x="64" y="186" width="120" height="4" rx="2" fill="url(#ac)"/>
+<text x="64" y="234" class="s">Turning manual workflows into small, reliable tools.</text>
+<rect x="776" y="60" width="380" height="196" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="800" cy="82" r="6" fill="#ff5f57"/><circle cx="820" cy="82" r="6" fill="#febc2e"/><circle cx="840" cy="82" r="6" fill="#28c840"/>
+<text x="800" y="128" class="t f" style="fill:#59636e;animation-delay:0.3s">$ npm test</text><text x="800" y="152" class="t f" style="fill:#0f8a5f;animation-delay:0.9s">✓ status rules</text><text x="800" y="176" class="t f" style="fill:#0f8a5f;animation-delay:1.3s">✓ permissions</text><text x="800" y="200" class="t f" style="fill:#0f8a5f;animation-delay:1.7s">✓ sla calendar</text><text x="800" y="224" class="t f" style="fill:#0f8a5f;animation-delay:2.1s">✓ sync and conflicts</text><text x="800" y="248" class="t f" style="fill:#0969da;animation-delay:2.7s">all checks passed, deploying</text>
+<rect class="cur" x="800" y="258" width="9" height="18" fill="#0f8a5f"/>
+</g></svg>

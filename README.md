@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Dionisius Widianto. Quality engineering, fintech, Indonesia. Turning manual workflows into small, reliable tools." src="assets/banner-light.svg" width="100%">
+  <img alt="Dionisius Widianto, quality engineering lead in Indonesian fintech, turning manual workflows into small, reliable tools. Beside the name, a terminal runs a test suite where every check passes before deploying." src="assets/banner-light.svg" width="100%">
 </picture>
 
 ## About
