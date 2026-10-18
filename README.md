@@ -4,39 +4,32 @@
   <img alt="Dionisius Widianto. Quality engineering lead in Indonesian fintech, turning manual workflows into small, reliable tools." src="assets/banner-light.svg" width="100%">
 </picture>
 
-<p>
-  <img alt="Focus: QA engineering" src="https://img.shields.io/badge/focus-QA%20engineering-1a7f64?style=flat-square">
-  <img alt="Based in Indonesia" src="https://img.shields.io/badge/based%20in-Indonesia-555?style=flat-square">
-  <img alt="Status: back and building" src="https://img.shields.io/badge/status-back%20%26%20building-2ea043?style=flat-square">
-</p>
+## About
 
-## Hi, I'm Dionisius 👋
-
-I lead quality engineering in Indonesian fintech, and I'm back to building in the open.
-I like turning messy, manual workflows into small, reliable tools that teams actually trust.
+I lead quality engineering at an Indonesian fintech. Most of my work is replacing spreadsheet processes with tools that are tested on every deploy.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Right now 🔭
+### Right now
 - QA dashboards that replace spreadsheets, with tests guarding every deploy
 - Edge-first web apps on Cloudflare Workers and Postgres
-- Making AI agents useful, and safe, in daily engineering work
+- Using AI agents for day-to-day engineering, with review on every change
 
 </td>
 <td valign="top" width="50%">
 
-### What I care about 🧭
+### What I care about
 - Test design and release safety
 - Accessible, plain-language UI
-- Small changes, reviewed, measured
+- Small changes that are reviewed and measured
 
 </td>
 </tr>
 </table>
 
-### Tools I reach for 🧰
+### Tools I reach for
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
